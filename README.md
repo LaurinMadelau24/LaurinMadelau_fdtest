@@ -1,7 +1,6 @@
-
 Laurin Madelau
 
-Backend: Laravel 11 
+Backend: PHP Laravel 11 
 Database: PostgreSQL
 Frontend: Blade (Bootstrap)
 Authentication: Laravel Breeze with email verification
@@ -32,6 +31,5 @@ php artisan test --filter UserTest
 
 php artisan make:test BookTest --unit 
 php artisan test --filter BookTest
-
 
 
